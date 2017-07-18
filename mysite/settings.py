@@ -25,7 +25,7 @@ SECRET_KEY = 'edkxx@nw1=cot9)3&qfjy0yhhb8ap&d#4m*gcgx3*o3gchx#+3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['taimacrean.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'taimacrean.pythonanywhere.com']
 
 
 # Application definition
